@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Madina Shumakhova](https://up.htmlacademy.ru/react-individual/3/user/2318109).
-* Наставник: `Неизвестно`.
+* Наставник: [Polina Shnaider](https://htmlacademy.ru/profile/id1178327).
 
 ---
 
